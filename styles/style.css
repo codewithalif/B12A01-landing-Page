@@ -34,6 +34,14 @@ nav {
   height: 151px;
 }
 
+.header button{
+  height: 48px;
+  width: 174px;
+}
+.header nav ul li button{
+  height: 48px;
+  width: 132px;
+}
 nav h3{
   font-size: 45px;
   color: #4E47FF;
@@ -79,6 +87,5 @@ width:229px;
 }
 .one h4{
   font-size: 24px;
-
   opacity: 50%;
 }

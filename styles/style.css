@@ -13,6 +13,12 @@
   /* font-weight: bold; */
 }
 
+.btn-primary:hover{
+  background-color: plum;
+  color: #FFFFFF;
+  cursor: pointer;
+
+}
 /* header style */
 
 .header{
@@ -55,20 +61,24 @@ padding-bottom: 152px;
   margin: 42px 159px 116px 141px; 
 }
 
-.live-preview h4{
-  color: #252432;
-}
 .live-preview h3 h4 button{
   display: inline-block;
 }
 .live-preview img{
   border-radius: 48px;
 }
+.one{
+  padding-bottom: 23px;
+}
+.one button{
+height:48px ;
+width:229px;
+}
 .one h3{
   font-size:42px;
-  padding-bottom: 23px;
 }
 .one h4{
   font-size: 24px;
-  padding-bottom: 23px;
+
+  opacity: 50%;
 }

@@ -10,6 +10,10 @@
   color:#FFFFFF;
   border-radius: 10px;
   border: none;
+  font-weight:600;
+  font-family: 'Inter', sans-serif;
+
+  
   /* font-weight: bold; */
 }
 
@@ -66,7 +70,8 @@ padding-bottom: 152px;
 .live-preview{
   display: flex; 
   gap: 500px; 
-  margin: 42px 159px 116px 141px; 
+  margin: 42px 159px 116px 141px;
+  justify-content: space-between;
 }
 
 .live-preview h3 h4 button{
@@ -84,8 +89,13 @@ width:229px;
 }
 .one h3{
   font-size:42px;
+  margin-bottom: 0;
 }
 .one h4{
   font-size: 24px;
   opacity: 50%;
+  font-weight:normal;
+}
+.one{
+  padding-left: 150px;
 }

@@ -48,6 +48,27 @@ font-size: 65px;
 padding-bottom: 152px;
 }
 
-center{
-  
+/* Live preview  */
+.live-preview{
+  display: flex; 
+  gap: 500px; 
+  margin: 42px 159px 116px 141px; 
+}
+
+.live-preview h4{
+  color: #252432;
+}
+.live-preview h3 h4 button{
+  display: inline-block;
+}
+.live-preview img{
+  border-radius: 48px;
+}
+.one h3{
+  font-size:42px;
+  padding-bottom: 23px;
+}
+.one h4{
+  font-size: 24px;
+  padding-bottom: 23px;
 }

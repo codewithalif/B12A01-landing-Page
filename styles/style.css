@@ -250,3 +250,32 @@ width:229px;
   margin-bottom: 71px;
 }
 
+
+/* Let Get in Touch */
+
+.Let_Get_in_Touch{
+  margin: 92.23px 150px 104px 150px;
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+.Let_Get_in_Touch h2{
+  /* padding: 200px 115px 200px 0px; */
+  font-size: 97px;
+  font-weight: bold;
+}
+
+.Let_Get_in_Touch button{
+  width:425px;
+  height: 50px;
+}
+.Let_Get_in_Touch .from ::placeholder{
+  font-size: 18px;
+  padding-left: 32px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.Let_Get_in_Touch .from .message{
+  padding-top: 10px;
+}
+

@@ -221,4 +221,32 @@ width:229px;
   border-radius: 50%;
 }
 
+/* Focus better */
+.focus_better div{
+  margin: 137px 149px 92.23px 151px;
+  background-color: #eeedebd8;
+  border-radius: 14px;
+  text-align: center;
+}
+.focus_better h2{
+  padding-top: 71px;
+  margin-bottom: 15px;
+  font-size: 50px;
+}
+.focus_better p{
+  color: #6b7280;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  padding-top: 0px;
+}
+.focus_better button{
+  font-weight: normal;
+  margin-bottom: 20px;
+  height: 48px;
+  width: 174px;
+}
+.focus_better img{
+  border-radius:48px;
+  margin-bottom: 71px;
+}
 
